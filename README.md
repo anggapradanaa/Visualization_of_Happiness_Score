@@ -42,4 +42,22 @@
 - Tajikistan berada di urutan terakhir untuk wilayah Asia Tengah, dengan skor kebahagiaan 5.38
 - 3 dari 4 negara di Asia Tengah (75%) memiliki skor kebahagiaan di atas Global Mean
 
-## 6. Perbandingan dari Negara dengan Skor Kebahagiaan Tertinggi dari Masing-Masing Wilayah
+## 6. Gabungan Seluruh Plot untuk Tiap Wilayah di Asia
+<img src = 'https://github.com/anggapradanaa/Visualization_of_Happiness_Score/blob/main/asia_score.png'>
+
+## 7. Perbandingan dari Negara dengan Skor Kebahagiaan Tertinggi dari Masing-Masing Wilayah
+<img src = 'https://github.com/anggapradanaa/Visualization_of_Happiness_Score/blob/main/top_asia_score.png'>
+
+### Insight
+- Asia Barat berada di urutan pertama untuk Wilayah Asia, yaitu diwakili oleh negara Israel dengan skor kebahagiaan 7.36. Secara global, Israel juga berada di Ranking ke-9
+- Asia Tenggara berada di urutan kedua, yaitu diwakili oleh Singapura dengan skor kebahagiaan 6.48
+- Asia Tengah berada di urutan ketiga, yaitu diwakili oleh Kazakhstan dengan skor kebahagiaan 6.23
+- Asia Timur berada di urutan keempat, yaitu diwakili oleh Jepang dengan skor kebahagiaan 6.04
+- Asia Selatan berada di urutan terakhir, yaitu diwakili oleh Nepal dengan skor kebahagiaan 5.38
+- Terlihat jelas bahwa untuk wilayah Asia Selatan, masing-masing negaranya memiliki skor kebahagiaan di bawah Global Mean
+
+## 8. Perbandingan dari Negara dengan Skor Kebahagiaan Terendah dari Masing-Masing Wilayah
+
+
+### Insight
+- Asia Barat berada di 
