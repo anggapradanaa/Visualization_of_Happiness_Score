@@ -41,3 +41,5 @@
 - Kazakhstan berada di urutan pertama untuk wilayah Asia Tengah, dengan skor kebahagiaan 6.23
 - Tajikistan berada di urutan terakhir untuk wilayah Asia Tengah, dengan skor kebahagiaan 5.38
 - 3 dari 4 negara di Asia Tengah (75%) memiliki skor kebahagiaan di atas Global Mean
+
+## 6. Perbandingan dari Negara dengan Skor Kebahagiaan Tertinggi dari Masing-Masing Wilayah
