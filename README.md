@@ -57,7 +57,18 @@
 - Terlihat jelas bahwa untuk wilayah Asia Selatan, masing-masing negaranya memiliki skor kebahagiaan di bawah Global Mean
 
 ## 8. Perbandingan dari Negara dengan Skor Kebahagiaan Terendah dari Masing-Masing Wilayah
-
+<img src = 'https://github.com/anggapradanaa/Visualization_of_Happiness_Score/blob/main/bottom%20asia.png'>
 
 ### Insight
-- Asia Barat berada di 
+- Asia Barat berada di urutan pertama untuk Wilayah Asia, yaitu diwakili oleh Negara Lebanon dengan skor kebahagiaan 2.96. Lebanon juga berada di Ranking ke-145 dari 147 negara
+- Asia Selatan berada di urutan kedua untuk Wilayah Asia, yaitu diwakili oleh Negara India dengan skor kebahagiaan 3.78
+- Asia Tenggara berada di urutan ketiga untuk Wilayah Asia, yaitu diwakili oleh Negara Myanmar dengan skor kebahagiaan 4.39
+- Asia Tengah berada di urutan keempat untuk Wilayah Asia, yaitu diwakili oleh Negara Tajikistan dengan skor kebahagiaan 5.38
+- Asia Timur berada di urutan kelima untuk Wilayah Asia, yaitu diwakili oleh Negara China dengan skor kebahagiaan 5.58
+- Hanya Asia Timur satu-satunya wilayah dengan seluruh negaranya memiliki skor kebahagiaan di atas Global Mean, termasuk China yang berada di urutan terakhir untuk wilayah Asia Timur
+
+## 9. Iraq vs. Indonesia
+<img src = 'https://github.com/anggapradanaa/Visualization_of_Happiness_Score/blob/main/iraq%20vs%20indo_radar.png'>
+<img src = 'https://github.com/anggapradanaa/Visualization_of_Happiness_Score/blob/main/iraq%20vs%20indo_stacked%20bar.png'>
+
+### Insight
