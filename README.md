@@ -72,3 +72,17 @@
 <img src = 'https://github.com/anggapradanaa/Visualization_of_Happiness_Score/blob/main/iraq%20vs%20indo_stacked%20bar.png'>
 
 ### Insight
+- Indonesia unggul 4 dari 7 faktor penentu skor kebahagiaan atas Iraq, yaitu dari faktor: 1) GDP per capita, 2) social support, 3) freedom to make life choices, dan 4) generosity
+- Iraq unggul 2 dari 7 faktor atas Indonesia, yaitu: 1) Dystopia, dan 2) Healthy life expectancy
+- Untuk faktor perceptions of corruption, Iraq dan Indonesia memiliki skor yang relatif sama
+- Dari segi Ranking, Indonesia berada di urutan ke-87. Sedangkan Iraq berada di urutan ke-107
+
+## 10. Jepang vs. Uzbekistan
+<img src = 'https://github.com/anggapradanaa/Visualization_of_Happiness_Score/blob/main/japan%20vs%20uzbe%20radar%20fix.png'>
+<img src = 'https://github.com/anggapradanaa/Visualization_of_Happiness_Score/blob/main/japan%20vs%20uzbe_stacked%20bar.png'>
+
+### Insight
+- Uzbekistan unggul 4 dari 7 faktor penentu skor kebahagiaan atas Jepang, yaitu dari faktor: 1) Dystopia, 2) Freedom to make life choices, 3) Perception of corruption, dan 4) Generosity
+- Jepang unggul 2 dari 7 faktor atas Uzbekistan, yaitu: 1) GDP per capita, dan 2) Healthy life expectancy
+- Untuk faktor social support, Jepang dan Uzbekistan memiliki skor yang relatif sama
+- Dari segi Ranking Uzbekistan mengungguli Jepang 1 skor, yaitu Uzbekistan berada di urutan ke-53 dan Jepang berada di urutan ke-54
